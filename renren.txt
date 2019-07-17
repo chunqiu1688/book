@@ -1,1 +1,1 @@
-
+{"url": "https://api.capmode.cn","open_wechat":1}
